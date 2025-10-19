@@ -1,0 +1,18 @@
+fastapi==0.115.2
+uvicorn[standard]==0.32.0
+textblob==0.18.0.post0
+deta==1.2.0
+pydantic==2.9.2
+requests==2.32.3
+colorama==0.4.6
+opencv-python==4.10.0.84
+# mediapipe pinned version unavailable on this Python; skipping installation
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
+deepface==0.0.93
+pyttsx3==2.98
+openai==1.52.2
+python-dotenv==1.0.1
+twilio==9.3.6
+twilio==9.0.5
+
